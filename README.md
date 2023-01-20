@@ -67,6 +67,7 @@ Logic symbol & Truthtable
 RTL realization
 Output:
 RTL
+[LOGIC GATES  DE EXP01.pdf](https://github.com/Nandhinijaya/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/files/10464787/LOGIC.GATES.DE.EXP01.pdf)
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
